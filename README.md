@@ -3,7 +3,13 @@
 ## 📌 Project Objective  
 To design and develop an **Interactive Market Pulse Sales Analytics Dashboard** in Power BI that delivers real-time insights into **sales amount, profit trends, product categories, sub-categories, and payment methods**.  
 
-The dashboard helps stakeholders monitor **KPIs**, track sales and profit trends, analyze category & state-level performance, and make **data-driven business decisions** to improve product strategy, marketing, and operations.  
+The dashboard helps stakeholders monitor **KPIs**, track sales and profit trends, analyze category & state-level performance, and make **data-driven business decisions** to improve product strategy, marketing, and operations.
+
+---
+
+## 📊 Live Dashboard  
+I created an interactive **Power BI dashboard** to analyze and visualize Market Pulse sales insights.  
+🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/c3525e07-aded-4651-a5ae-57a927489d30?pbi_source=desktop)  
 
 ---
 
@@ -66,12 +72,6 @@ Retail businesses generate large amounts of transactional data. Without proper a
 - **Profit Optimization:** Address losses in months with negative profit by revisiting pricing and discount strategies.  
 - **Customer Payment Preference:** Strengthen **COD and UPI** payment channels for smoother customer experience.  
 - **Growth Opportunities:** Furniture and Accessories sub-categories can be scaled with targeted marketing.  
-
----
-
-## 📊 Live Dashboard  
-I created an interactive **Power BI dashboard** to analyze and visualize Market Pulse sales insights.  
-🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/your-report-id/your-dashboard-id?experience=power-bi)  
 
 ---
 
