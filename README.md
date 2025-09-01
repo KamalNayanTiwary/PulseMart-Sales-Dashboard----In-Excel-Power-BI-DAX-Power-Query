@@ -1,7 +1,7 @@
 # PulseMart-Sales-Dashboard  
 
 ## 📌 Project Objective  
-To design and develop an **Interactive Market Pulse Sales Analytics Dashboard** in Power BI that delivers real-time insights into **sales amount, profit trends, product categories, sub-categories, and payment methods**.  
+To design and develop an **Interactive Market Pulse Sales Analytics Dashboard** in **Power BI** that delivers real-time insights into **sales amount, profit trends, product categories, sub-categories, and payment methods**.  
 
 The dashboard helps stakeholders monitor **KPIs**, track sales and profit trends, analyze category & state-level performance, and make **data-driven business decisions** to improve product strategy, marketing, and operations.
 
