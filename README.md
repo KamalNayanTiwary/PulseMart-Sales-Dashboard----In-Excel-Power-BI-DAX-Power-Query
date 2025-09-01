@@ -18,11 +18,6 @@ Retail businesses generate large amounts of transactional data. Without proper a
 
 ---
 
-## 📂 Dataset Used  
-- [Dataset](https://github.com/KamalNayanTiwary/Market-Pulse-Sales-Analysis/blob/main/Market_Pulse_Data.xlsx)  
-
----
-
 ## ❓ Key Questions (KPIs)  
 - What is the **total sales, profit, and quantity** achieved?  
 - Which **states** contribute the most to quantity sold?  
@@ -49,7 +44,7 @@ Retail businesses generate large amounts of transactional data. Without proper a
 
 ## 📊 Dashboard  
 
-![Overview](https://github.com/KamalNayanTiwary/Market-Pulse-Sales-Analysis/blob/main/Snapshot%20of%20Dashboard.png)  
+![Overview](https://github.com/KamalNayanTiwary/Market-Pulse-Sales-Analysis-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.png)  
 
 ---
 
