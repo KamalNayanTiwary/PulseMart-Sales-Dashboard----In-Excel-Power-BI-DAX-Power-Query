@@ -50,7 +50,7 @@ Retail businesses generate large amounts of transactional data. Without proper a
 
 ## 📊 Dashboard  
 
-![Overview](https://github.com/KamalNayanTiwary/Market-Pulse-Sales-Analysis-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.png)  
+![Overview](https://github.com/KamalNayanTiwary/PulseMart-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png)  
 
 ---
 
