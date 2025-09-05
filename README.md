@@ -9,7 +9,7 @@ The dashboard helps stakeholders monitor **KPIs**, track sales and profit trends
 
 ## 📊 Live Dashboard  
 I created an interactive **Power BI dashboard** to analyze and visualize Market Pulse sales insights.  
-🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/groups/me/reports/c3525e07-aded-4651-a5ae-57a927489d30/b625b47bbda6306e0ca4?experience=power-bi)  
+🔗 You can explore it live here: [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU5N2RjYjQtNzBkZi00ZjIwLWIwYTUtZTAwMTgxODdiOGViIiwidCI6ImNhZDFhYWU2LTc3MjEtNGE2Yy05ZWM3LWY1MWQ4YTJkYjY5NiJ9)  
 
 ---
 
