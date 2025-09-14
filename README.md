@@ -1,5 +1,5 @@
 # PulseMart Sales Dashboard  
-
+ 
 ## 📌 Project Objective  
 To design and develop an **PulseMart Sales Dashboard** in **Power BI** that delivers real-time insights into **sales amount, profit trends, product categories, sub-categories, and payment methods**.  
 
